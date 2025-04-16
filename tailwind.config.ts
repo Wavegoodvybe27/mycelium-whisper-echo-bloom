@@ -52,6 +52,16 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+        mycelium: {
+          soil: '#5C4033',
+          bark: '#8B6B4A',
+          forest: '#2F4F2F',
+          spore: '#D2B48C',
+          glow: {
+            blue: '#7DF9FF',
+            purple: '#B19CD9',
+          },
+        },
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
